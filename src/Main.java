@@ -74,7 +74,7 @@ class Inscripcion {
 
 public class Main {
     public static void main(String[] args) {
-        Alumno alumno1 = new Alumno("Juan", "12345");
+        Alumno alumno1 = new Alumno("Juana", "12345");
         Alumno alumno2 = new Alumno("Maria", "67890");
 
         Materia materia1 = new Materia("Algoritmos y Estructuras de Datos");
